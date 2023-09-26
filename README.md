@@ -26,5 +26,5 @@
  <a href="https://www.facebook.com/gleyber.lima.5" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=black" target="_blank"></a>
   <a href="https://instagram.com/gleyberlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gleyber-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
-  <a href="https://twitter.com/gleyberlima" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%0d1321?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a>
+  <a href="https://twitter.com/gleyberlima" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
 </div>
