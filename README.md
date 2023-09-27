@@ -27,4 +27,3 @@
   <a href="https://twitter.com/gleyberlima" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
