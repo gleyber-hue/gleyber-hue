@@ -1,4 +1,4 @@
-# 💫 Lute e Conquiste:
+# Confie no Senhor de todo o seu coração 💫👏:
 
 # Cursando Analise e Desenvolvimento de Sistemas 📚
 # 💻 Em modo de crescimento:
